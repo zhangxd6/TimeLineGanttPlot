@@ -1,0 +1,55 @@
+.brush rect.extent
+{
+    fill: blue;
+    fill-opacity: .125;
+    stroke-width: .5;
+    stroke: black;
+}
+
+.brush .resize path
+{
+    fill: #eee;
+    stroke: #666;
+}
+
+.scrollerItem
+{
+    /*	stroke:red;
+	stroke-width:3;
+}
+
+.background.scroller {
+*/ stroke: salmon;
+    stroke-opacity: .8;
+    stroke-width: 3;
+}
+
+/*.foreground.scroller {
+  stroke-opacity: 0;
+  stroke-width:3;
+}
+*/
+
+.vertivalgridLine
+{
+    stroke: gray;
+    stroke-width: 1;
+    shape-rendering: 'crispEdges';
+}
+
+.alert
+{
+    fill: red;
+}
+
+.xaxis path,
+.xaxis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.xaxis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
