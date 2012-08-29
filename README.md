@@ -2,4 +2,4 @@ TimeLineGanttPlot
 =================
 
 
-A simple Jquery plug in to create Timeline GanttPlot using d3js library.
+A simple Jquery plugin to create Timeline GanttPlot using d3js library based on example @http://bl.ocks.org/1962173
